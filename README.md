@@ -1,12 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Yasir</h1>
+<h1 align="left">Hi 👋, I'm Yasir</h1>
 
-<h3 align="center">Full Stack Developer |.Net |C# | Angular | SQL and MySQL | PHP | Laravel Framework | JavaScript</h3>
+<h3 align="left">Full Stack Developer |.Net |C# | Angular | SQL and MySQL | PHP | Laravel Framework | JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir2309a&label=Profile%20views&color=0e75b6&style=flat" alt="yasir2309a" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir2309a" alt="yasir2309a" /></a> </p>
-
+<img align="right" src="https://i.gifer.com/Ry6p.gif" alt="gif" width="300px"/>
 - 🌱 I’m currently learning **Software Development**
 
 - 👨‍💻 All of my projects are available at [yasirport.atwebpages.com](yasirport.atwebpages.com)
